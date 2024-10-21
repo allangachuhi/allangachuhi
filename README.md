@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @allangachuhi
+- 👋 Hi, I’m @shohay
 - 👀 I am interested in UI/UX
 - 🌱 I am currently learning CSS & HTML
 - 📫 Email me @ allangachuhidesign@gmail.com
